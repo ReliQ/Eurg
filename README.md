@@ -1,8 +1,6 @@
-# Grue Sentora Theme #
+# Eurg Sentora Theme #
 
-A grey bluey "flat" style theme for Sentora Control Panel.
-
-You can see a demo of it in action over at [sentora.ga](http://sentora.ga/). Login to the Sentora demo then go into the "Theme Selector" and choose "Grue".
+A modern style theme for Sentora Control Panel, based on Grue.
 
 ###Screenshots:###
 ![Grue for Sentora screenshot](http://i.imgur.com/KTfec6p.jpg)
@@ -18,4 +16,4 @@ You can see a demo of it in action over at [sentora.ga](http://sentora.ga/). Log
 - Rename "Grue-master" folder to "Grue" (Notice the uppercase "G")
 - In Sentora set the theme and away you go!
 
-**If you decide to use this theme, be sure to rename "grue-master" to "Grue" otherwise the login screen will be a blank page. ;)**
+**If you decide to use this theme, be sure to rename "eurg-master" to "Eurg" otherwise the login screen will be a blank page. ;)**
