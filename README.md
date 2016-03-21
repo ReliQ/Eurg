@@ -1,11 +1,11 @@
 # Eurg Sentora Theme #
 
-A modern style theme for Sentora Control Panel, based on Grue.
+A modern style theme for Sentora Control Panel, based on Eurg.
 
 ###Screenshots:###
-![Grue for Sentora screenshot](http://i.imgur.com/KTfec6p.jpg)
+![Eurg for Sentora screenshot](http://i.imgur.com/KTfec6p.jpg)
 
-![Grue for Sentora login screen screenshot](http://i.imgur.com/0jPdrgr.png)
+![Eurg for Sentora login screen screenshot](http://i.imgur.com/0jPdrgr.png)
 
 <sup>Module icons by Icon Alone.</sup>
 
