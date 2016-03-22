@@ -9,6 +9,9 @@ a {
 	-moz-transition: all .12s;
 	-webkit-transition: all .12s;
 }
+a:focus {
+	outline: none;
+}
 .container {
 	margin-left: 0;
 }
