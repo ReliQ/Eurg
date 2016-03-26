@@ -73,6 +73,7 @@ a:hover, a:active {
     margin: 0;
 }
 .login-panel {
+    box-shadow: 0px 0px 3px 0px rgba(1, 1, 1, 0.18); 
     padding: 0;
 }
 .alert {
